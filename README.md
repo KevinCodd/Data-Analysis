@@ -1,2 +1,2 @@
 # Mini-Projects
-Select mini-projects and exercises, some for classes
+Select mini-projects and exercises, mostly academic
