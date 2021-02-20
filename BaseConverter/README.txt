@@ -1,0 +1,1 @@
+Script that converts an int into any base 1-16.  Inputs are hard-coded into args array.
