@@ -1,2 +1,2 @@
-# Mini-Projects
-Select academic and personal mini-projects and exercises 
+# Data Analysis
+Data analysis notebooks
